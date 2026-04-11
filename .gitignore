@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+
+# Virtual env
+venv/
+.env
+
+# OS
+.DS_Store
